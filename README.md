@@ -49,7 +49,7 @@ A Django REST Framework (DRF) based backend for tracking user activities with st
     ```
   
 ## ✅ Running Tests
-`python manage.py test apps.activity.tests --keepdb`
+`python manage.py test --keepdb`
 
 ## 📄 API Documentation
 - #### Swagger UI: http://127.0.0.1:8000/swagger/
